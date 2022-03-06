@@ -1,0 +1,1 @@
+entero resta(entero a, entero b) {return a-b;}
