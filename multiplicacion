@@ -1,0 +1,1 @@
+entero multiplicacion(entero a, entero b) {return a*b;}
